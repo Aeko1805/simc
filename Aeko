@@ -1,0 +1,36 @@
+# SimC Addon 1.10.10
+paladin="Aeko"
+level=120
+race=blood_elf
+region=eu
+server=blackrock
+role=attack
+professions=herbalism=102/skinning=150
+talents=2331312
+spec=holy
+
+head=,id=166696,bonus_id=5478/1502/4786/5402,context=3,azerite_powers=452/104/14
+neck=,id=158075,bonus_id=4932/4933/4936/1528,context=11,azerite_level=29
+shoulder=,id=159415,bonus_id=4819/1542/4786/5412,context=23,azerite_powers=233/452
+back=,id=159294,bonus_id=4779/1562/4784,context=23
+chest=,id=165550,bonus_id=4822/1507/4786/5413,context=3,azerite_powers=394
+tabard=,id=5976,context=14
+wrist=,id=165496,bonus_id=5126/1517/4786,context=6
+hands=,id=165556,bonus_id=4799/1522/4786,context=5
+waist=,id=157965,bonus_id=4803/4802/1577/4786,context=28
+legs=,id=159456,bonus_id=4779/1542/4786,context=23
+feet=,id=163460,bonus_id=5125/1567/4786,context=28
+finger1=,id=160645,bonus_id=4799/1808/1492/4786,context=5
+finger2=,id=144129,bonus_id=5473,drop_level=120,context=22
+trinket1=,id=159615,bonus_id=4780/1552/4783,context=35
+trinket2=,id=161377,bonus_id=4798/1477/4786,context=3
+main_hand=,id=163869,bonus_id=5125/1562/4786,context=29
+off_hand=,id=162455,bonus_id=4803/1572/4786,context=28
+
+### Gear from Bags
+#
+# Knochenhetotschläger (370)
+# main_hand=,id=158125,bonus_id=4803/1562/4786,context=28
+
+# Stacks of reorigination array based on hidden quest completion
+# bfa.reorigination_array_stacks=1
